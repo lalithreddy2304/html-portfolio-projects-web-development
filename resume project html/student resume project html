@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>P.Sri lalith reddy</h1>
+<p>Btech cse core (1st year) : intrested in web development</p>
+<strong>EMAIL</strong>
+<a href="srilalithreddy23@gmail.com">srilalithreddy23@gmail.com </A> |
+<strong>my github link</strong>
+<a href="https://github.com/lalithreddy2304" target="_blank">https://github.com/lalithreddy2304 </a>| 
+
+<nav>
+<p>
+<a href="#summary">summary</a>|
+  <a href="#education">education</a>|
+<a href="#projects">projects</a>|
+<a href="#Relevant Coursework">Relevant Coursework</a>|
+<a href="#Skills">Skills</a>|
+<a href="#links">links</a>|
+<a href="contact me">contact me</a>|
+</p>
+</nav>
+<hr>
+<h2>summary</h2>
+<p>my name is p.sri lalith reddy ,studing in gdgu,First-year Computer Science student focused on building strong foundations in programming and the web. Recently completed HTML and practicing structured multi-page sites (forms, tables, internal navigation). Looking to apply skills in small projects and internships while continuing with C and Python basics.</p>
+<hr>
+<!-- <section id="education"></section> -->
+ <h2>education</h2> 
+
+  <table border="1"  cellspacing="0" cellpadding="7">
+
+    <thead>
+        <tr>
+<th>Institution</th>
+<th>Degree</th>
+<th>year</th>
+</tr>
+    </thead>
+<tbody>
+    <tr>
+        <td>gd goyenka </td>
+        <td>btech in coumputer science</td>
+        <td>2025 - 2029(expected)</td>
+    </tr>
+</tbody>
+</table>
+<hr>
+<h2>projects(HTML-Only)</h2>
+<h3>Student Portal (HTML-only)</h3>
+<ul>
+    <li>Built a multi-page portal with Home, Timetable, Assignments, and Contact Faculty pages. </li>
+    <li>Contact page includes a basic form with name, email, and message fields.</li>
+    
+   <li><strong>Repo</strong> <a href="add the repo link later">will add the repo link shortly</a> </li>
+
+</ul>
+<hr>
+<h1>Relevant Coursework</h1>
+<ul>
+    <li>Programming in C (in progress)</li>
+    <li>HTML (completed)</li>
+    <li>Intro to Computing / Problem Solving</li>
+</ul>
+<hr>
+<h1>Skills</h1>
+<ul>
+    <li>Languages: C (basics), Python (basics), HTML</li>
+    <li>Tools: Git, GitHub</li>
+    <li>Web: Semantic HTML, forms, tables, multi-page navigation</li>
+    <li>Interests: Web development, beginner data projects</li>
+</ul>
+<hr>
+<h2>links</h2>
+<ul>
+<li><a href="https://github.com/lalithreddy2304">github</a></li>
+<li><a href="https://www.linkedin.com/in/lalith-reddy-pedaballi-90b8b5384is">linkdin</a>
+<br>
+
+<h2>contact me</h2>
+
+<strong>Name</strong><br>
+<input type="text" placeholder="enter ur name">
+<br>
+<br>
+<strong>Email</strong><br>
+<input type="email" placeholder="enter ur email">
+<br>
+<br>
+<a button type="submit">send</button>
+<a button type="reset">reset</button>
+
+<a href="#top">back to tpo</a>
+</body>
+</html>

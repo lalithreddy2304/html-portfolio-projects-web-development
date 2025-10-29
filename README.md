@@ -65,3 +65,5 @@ This repository will remain focused solely on HTML-based implementations.
 🔗 https://lalithreddy2304.github.io/html-portfolio-projects-web-development/resume-project/
 ## Live Demo for Dream Travels
 🔗 https://lalithreddy2304.github.io/html-portfolio-projects-web-development/dream-travels-website/
+## Live Demo for student portal
+🔗 https://lalithreddy2304.github.io/html-portfolio-projects-web-development/Student-portal/
